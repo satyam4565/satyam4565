@@ -47,10 +47,6 @@ Former Intern at **National Informatics Centre (NIC)** — building reliable, re
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=satyam4565&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=satyam4565&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam4565&theme=dark&hide_border=false&layout=compact)
 
